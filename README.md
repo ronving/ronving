@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://github.com/ronving">Ronving</a>.<br> Software Engineer from Ukraine.<br><br>#back-end, #spring, #java, #engx</samp>
+  <samp>Hello there. I'm <a href="ronving.github.io">Ronving</a>.<br> Software Engineer from Ukraine.<br><br>#back-end, #spring, #java, #engx</samp>
   <br>
   <br>
   <br>
